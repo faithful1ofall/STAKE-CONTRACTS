@@ -5,8 +5,8 @@ var Web3 = require('web3');
 
 module.exports = async function(deployer, network, accounts) {
   // BSC addresses
-  let depositToken = '0xdb44c35cd6c378eb9e593d4c7243118064172fb2'; // PancakeSwap V2: ETB
-  let rewardToken = '0x7ac64008fa000bfdc4494e0bfcc9f4eff3d51d2a'; // ETB
+  let depositToken = '0xD482E9FC49fA4D5cD2229FC4c443c7F77B68c518'; // PancakeSwap V2: ETB
+  let rewardToken = '0xD482E9FC49fA4D5cD2229FC4c443c7F77B68c518'; // ETB
   
   // If deploying to dev network, create mock tokens and use them for staking contract.
   if (network == "development") {
