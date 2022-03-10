@@ -1,9 +1,6 @@
 [![ci](https://github.com/assafom/eatthestake/actions/workflows/build.yaml/badge.svg)](https://github.com/assafom/eatthestake/actions/workflows/build.yaml)
 
-# Eat The Stake
-Staking DApp for [Eat The Blocks Projects #2](https://github.com/jklepatch/eattheblocks/tree/master/etb-projects/project2-staking).
 
-![screenshot](screenshot.png)
 
 ## Install
 1. Install truffle/contract dependencies:
